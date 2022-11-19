@@ -1,0 +1,251 @@
+.app__wrapper {
+    background-color: #E6E9F2;
+    padding: 29px 0;
+}
+
+.app__inner {
+    max-width: 1400px;
+    margin: 0 auto;
+}
+
+.job__container {
+    background-color: #fff;
+    box-shadow: 2px 1px 7px rgba(0, 0, 0, 0.08), 0px 2px 1px -1px rgba(0, 0, 0, 0.04), 0px 1px 3px rgba(0, 0, 0, 0.12);
+    border-radius: 8px;
+    height: auto;
+}
+
+.job__img-container {
+    position: relative;
+}
+.job__img {
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+}
+
+.job__description {
+    line-height: 25px;
+} 
+
+.job__address, .job__location, .job__rate {
+    color: #878D9D;
+    font-size: 16px;
+}
+
+/* job details */
+
+.job__details-inner {
+    max-width: 1260px;
+    margin: 0 auto;
+    gap: 82px;
+    position: relative;
+}
+
+.job__details-info {
+    max-width: 793px;
+}
+
+.job__details-address {
+    
+}
+
+.top__adress {
+    background-color: #2A3047;
+    color: #E7EAF0;
+}
+
+.adress__title {
+    font-size: 20px;
+    line-height: 25px;
+    letter-spacing: -0.625px;
+}
+
+.adress__top {
+    font-size: 18px;
+    line-height: 24px;
+    letter-spacing: -0.5625px;
+}
+
+.adress__phone, .adress__email {
+    font-size: 18px;
+    line-height: 24px;
+    letter-spacing: -0.5625px;
+}
+
+.bottom__adress img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.return__btn {
+    text-transform: uppercase;
+    border-radius: 8px;
+    background-color:  rgba(161, 177, 219, 0.317343);
+    position: absolute;
+    bottom: 0;
+    left: -100px;
+}
+
+.return__btn a {
+    color: #384562;
+}
+
+/* details header */
+
+.details__header {
+    border-bottom: 1px solid rgba(58, 69, 98, 0.3);
+}
+
+.details__header-title h1 {
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 34px;
+    letter-spacing: 0.413333px;
+    color: #3A4562;
+}
+
+.details__header-links {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 24px;
+    color: #3A4562;
+}
+
+.details__header-links div:nth-child(1) {
+    letter-spacing: -0.5625px;
+}
+
+/* details content */
+
+.details__content-btn {
+    background: #384564;
+    border-radius: 8px;
+    color: #fff;
+}
+
+.content__description-title div:nth-child(1) {
+    color: #3A4562;
+}
+.content__description-title div:nth-child(1) {
+    line-height: 30px;
+}
+.content__description-title div:nth-child(2) p:nth-child(1) {
+    line-height: 25px;
+}
+.content__description-title div:nth-child(2) p:nth-child(2) {
+    line-height: 24px;
+}
+.content__description-title div:nth-child(3) {
+    color: rgba(56, 65, 93, 0.355988);
+}
+
+.content__description-response {
+    color: #3A4562;
+}
+.content__description-response h1 {
+    line-height: 25px;
+    color: #3A4562;
+}
+
+.content__description-benefits {
+    color: #3A4562;
+}
+
+.content__description-benefits ul {
+    list-style-type: square;
+}
+
+.details__footer-info {
+    color: #3A4562;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 24px;
+}
+
+.footer__info-title {
+    border-bottom: 1px solid rgba(58, 69, 98, 0.13);;
+}
+
+.footer__info-title h1 {
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 34px;
+    letter-spacing: 0.413333px;
+    color: #3A4562;
+}
+
+.footer__info-types button {
+    background-color: rgba(161, 177, 219, 0.317343);
+    border: 1px solid rgba(85, 105, 158, 0.3);
+    border-radius: 8px;
+    font-size: 16px;
+    text-align: 16px;
+    letter-spacing: -0.457143px;
+    color: #55699E;
+}
+
+.info__types-title {
+    color: #3A4562;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 24px;
+}
+
+
+.footer__info-benefits h1{
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 34px;
+    letter-spacing: 0.413333px;
+    color: #3A4562;
+}
+
+.info__benefits-title {
+    color: #3A4562;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 24px;
+}
+
+.footer__info-benefits button {
+    background-color: rgba(255, 207, 0, 0.15);
+    border: 1px solid #FFCF00;
+    border-radius: 8px;
+    font-size: 16px;
+    text-align: 16px;
+    color: #988B49;
+    letter-spacing: -0.4px;
+}
+
+.footer__images-title {
+    border-bottom: 1px solid rgba(58, 69, 98, 0.13);;
+}
+
+.footer__images-title h1 {
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 34px;
+    letter-spacing: 0.413333px;
+    color: #3A4562;
+}
+
+.slide__wrapper {
+    width: 200px;
+    height: 133px;
+}
+
+.slide__wrapper img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.slick-slide > div {
+    margin: 0 10px;
+}
+
+.slick-list {
+    margin: 0 -10px;
+}

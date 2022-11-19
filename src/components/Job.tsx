@@ -32,7 +32,7 @@ const Job:React.FC<ItemI> = ({item}) => {
         </div>
         <div className="job__content flex flex-col-reverse sm:flex-col-reverse lg:flex-row grow justify-between">
             <div className="job__description">
-                <p className="job__title font-bold mb-[8px]"><Link to="/details" onClick={showDetails}>{item.title}</Link></p>
+                <p className="job__title font-bold mb-[8px]"><Link to="/aleann_lab_react/details" onClick={showDetails}>{item.title}</Link></p>
                 <p className="job__address mb-[8px]">{item.address}</p>
                 <div className="job__location flex flex-row items-center gap-x-2">
                     <div><SlLocationPin /></div>

@@ -166,7 +166,7 @@ const JobDetails:React.FC = () => {
                     </div>
                 </section>
                 <div className="return__btn py-[18px] px-[23px] hidden xl:flex flex-row ">
-                <IoIosArrowBack /><Link to="/" className="font-semibold text-xs" > return to job board</Link>
+                <IoIosArrowBack /><Link to="/aleann_lab_react" className="font-semibold text-xs" > return to job board</Link>
                 </div>
             </div>
         </div>

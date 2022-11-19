@@ -18,11 +18,12 @@ function App() {
 
 
   return (
-
+      
         <Routes>
-          <Route path='/' element={<ListJobs list={jobs}  />} />
-          <Route path='/details' element={<JobDetails />} /> 
+          <Route path='aleann_lab_react/' element={<ListJobs list={jobs}  />} />
+          <Route path='/aleann_lab_react/details' element={<JobDetails />} /> 
         </Routes>
+        
   );
 }
 

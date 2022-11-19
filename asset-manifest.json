@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/aleann_lab_react/static/css/main.f78b3b82.css",
+    "main.js": "/aleann_lab_react/static/js/main.7d969462.js",
+    "static/media/Map.png": "/aleann_lab_react/static/media/Map.e6c43a8120d9bb1c6c10.png",
+    "static/media/slick.svg": "/aleann_lab_react/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/aleann_lab_react/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/aleann_lab_react/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/aleann_lab_react/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/aleann_lab_react/index.html",
+    "main.f78b3b82.css.map": "/aleann_lab_react/static/css/main.f78b3b82.css.map",
+    "main.7d969462.js.map": "/aleann_lab_react/static/js/main.7d969462.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f78b3b82.css",
+    "static/js/main.7d969462.js"
+  ]
+}
